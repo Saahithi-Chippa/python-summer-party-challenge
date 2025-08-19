@@ -32,7 +32,7 @@ The notebooks demonstrate my ability to:
 ## Contact
 Saahithi Chippa  
 Email: sachippus@gmail.com  
-LinkedIn: [](https://www.linkedin.com/in/saahithi-ch-492545183/)  
+[LinkedIn](https://www.linkedin.com/in/saahithi-ch-492545183/)
 
 ## About Interview Master
 
