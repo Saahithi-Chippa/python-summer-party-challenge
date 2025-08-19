@@ -30,9 +30,9 @@ The notebooks demonstrate my ability to:
 3. Launch Jupyter Lab or Notebook and open any `day-XX.ipynb` file.
 
 ## Contact
-Saahithi Chippa
-Email: sachippus@gmail.com
-LinkedIn: [](https://www.linkedin.com/in/saahithi-ch-492545183/)
+Saahithi Chippa  
+Email: sachippus@gmail.com  
+LinkedIn: [](https://www.linkedin.com/in/saahithi-ch-492545183/)  
 
 ## About Interview Master
 
